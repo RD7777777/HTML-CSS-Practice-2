@@ -40,7 +40,6 @@ html {
         margin-top: 1rem;
     }
 
-@media (max-width: 1500px) {
 .home-grid {
     margin: 1rem 10rem 1rem 10rem;
     display: grid;
@@ -95,7 +94,6 @@ html {
             border-top: 0.3rem var(--blue) solid;
             margin-top: 9rem;
         }
-}
 
 @media (max-width: 56.25rem) {
 .home-grid {
